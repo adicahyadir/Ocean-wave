@@ -18,7 +18,7 @@
 
 2. Navigate to the project directory:
     ```bash
-    cd Ocean-wave
+    cd OceanClaimer
     ```
 
 3. Install the required dependencies:
@@ -26,9 +26,19 @@
     npm i
     ```
 
-4. Set your mnemonic in the `mnemonic.json` file.
-
-5. Start the application:
+4. Navigate to the `mass-send-sui` directory:
     ```bash
-    npm start
+    cd mass-send-sui
+    ```
+
+5. Set your destination address in the `address.json` file.
+
+6. Run the application:
+    ```bash
+    node index.js
+    ```
+
+7. Use the following API key:
+    ```bash
+    API KEY: trial
     ```

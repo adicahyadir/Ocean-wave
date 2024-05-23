@@ -26,9 +26,14 @@
     npm i
     ```
 
-4. Set your mnemonic in the `mnemonic.json` file.
-
-5. Start the application:
+4. Navigate to the `transfer-ocean` directory:
     ```bash
-    npm start
+    cd transfer-ocean
+    ```
+
+5. Set your source wallet mnemonic in the `source-mnemonic.json` file.
+
+6. Run the application:
+    ```bash
+    node index.js
     ```

@@ -18,7 +18,7 @@
 
 2. Navigate to the project directory:
     ```bash
-    cd Ocean-wave
+    cd OceanClaimer
     ```
 
 3. Install the required dependencies:
@@ -26,9 +26,14 @@
     npm i
     ```
 
-4. Set your mnemonic in the `mnemonic.json` file.
-
-5. Start the application:
+4. Navigate to the `transfer-ocean-by-secretkey` directory:
     ```bash
-    npm start
+    cd transfer-ocean-by-secretkey
+    ```
+
+5. Set your source wallet secret key in the `source-privatekey.json` file.
+
+6. Run the application:
+    ```bash
+    node index.js
     ```
