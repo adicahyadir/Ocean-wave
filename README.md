@@ -1,13 +1,13 @@
 # OceanClaimer
 
-**Auto Multi Wave Wallet on Sui Claimer By Secret Key (OCEAN)**
+**Auto Multi Wave Wallet on Sui Claimer**
 
 - Register link: [Register Here](t.me/waveonsuibot/walletapp?startapp=1903868)
 - Buy Sui On Exchange
 
 ## Requirements
 
-- NodeJs v18 or later
+- NodeJs v19 ++ 
 
 ## How To Use
 
